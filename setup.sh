@@ -18,6 +18,3 @@ sudo chattr +i /etc/resolv.conf
 sysctl -p
 systemctl enable clatd
 service clatd start
-# check 
-curl 1.1.1.1
-curl -4 google.com
