@@ -8,6 +8,6 @@ sudo wget --no-check-certificate https://raw.githubusercontent.com/bibicadotnet/
 ```
 Chạy tiếp
 ```shell
-curl 1.1.1.1
+curl -4 google.com
 ```
 Thấy hiện ra bình thường là đã hỗ trợ ipv4
